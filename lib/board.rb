@@ -1,4 +1,6 @@
 # Define the variable board below.
-def greeting
-  puts "hello world"
+def stylish_chef
+  best_hairstyle = "Guy Fieri"
+  return "Martha Stewart"
+  "Guy Fieri"
 end
